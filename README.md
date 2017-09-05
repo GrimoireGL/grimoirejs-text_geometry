@@ -1,5 +1,7 @@
 # grimoire-text_geometry
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/GrimoireGL/grimoirejs-text_geometry.svg)](https://greenkeeper.io/)
+
 plugin for Grimoire.js(<https://grimoire.gl>).
 
 ```xml
