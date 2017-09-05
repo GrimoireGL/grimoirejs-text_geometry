@@ -31,10 +31,10 @@
         "grimoirejs-cauldron": "latest",
         "http-server": "^0.10.0",
         "raw-loader": "^0.5.1",
-        "regenerator-runtime": "^0.10.1",
+        "regenerator-runtime": "^0.11.0",
         "ts-loader": "^2.0.3",
         "typescript": "^2.3.4",
-        "webpack": "^2.5.1",
+        "webpack": "^3.5.5",
         "webpack-shell-plugin": "^0.5.0"
     },
     "author": "GrimoireGL",
